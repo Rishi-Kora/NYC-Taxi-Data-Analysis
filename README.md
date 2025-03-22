@@ -31,4 +31,7 @@ Correlation heatmap:<br> The notebook creates a correlation heatmap using sns.he
 
 Descriptive statistics:<br> The notebook uses describe().transpose() to display summary statistics of the dataset.<br>
 
+As the dataset in this code is too big and I am not able to upload the dataset, please do download the ataset from this link:<br>
+https://www.kaggle.com/c/nyc-taxi-trip-duration/data
+
 Feel free to download the code and data.
